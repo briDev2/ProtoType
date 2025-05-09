@@ -3,18 +3,12 @@
     "table": {
       "cells": {
         "messages": {
-          "autogen": "✨ Automatically generated",
-          "compositeUnique": "🧑‍🍳 Composite {{name}} is not unique Nick",
-          "deletedFromSource": "This record has been deleted from the source sheet.",
-          "deletedFromSourceIgnored": "This record has been deleted from the source sheet and will be ignored on merge.",
-          "deletedFromSourceRestored": "This record has been deleted from the source sheet and will be added on merge.",
+          "compositeUnique": "Duplicate Election {{name}}, {{field[0]}} and {{field[1]}}",
           "invalidOption": "Invalid option",
           "invalidValue": "Value is not a valid option",
-          "readOnly": "read only NIck",
+          "readOnly": "{{field}} is read only",
           "reference": "Value does not exist in the reference table",
-          "req": "{{field}} is required",
-          "transformed": "🪄️ Transformed from {{originalValue}}",
-          "unique": "Value is not unique Nick"
+          "transformed": "🪄️ Transformed from {{originalValue}}"
         }
       }
     }
