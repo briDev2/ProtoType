@@ -3,9 +3,9 @@
     "table": {
       "cells": {
         "messages": {
-          "compositeUnique": "Duplicate {{name}}, {fields},{{fields[0]}} and {{field[1]}}",
-          "readOnly": "{{label}} is read only",
-          "transformed": "🪄️ Transformed from {{originalValue}}"
+          "compositeUnique": "Duplicate Election, {{fields}},",
+          "readOnly": "{{fields}} is read only",
+          "transformed": "Transformed from {{originalValue}}"
         }
       }
     }
