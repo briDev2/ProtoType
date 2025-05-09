@@ -3,8 +3,8 @@
     "table": {
       "cells": {
         "messages": {
-          "compositeUnique": "Duplicate Election, {{fields}},",
-          "readOnly": "{{fields}} is read only",
+          "compositeUnique": "This account type has an election change for the employee in another row. Enter a different account type number or delete the row",
+          "readOnly": "{{field}} {{value}} {{originalValue}} {{text}} {{key}} {{label}} is read only",
           "transformed": "Transformed from {{originalValue}}"
         }
       }
