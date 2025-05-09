@@ -3,11 +3,8 @@
     "table": {
       "cells": {
         "messages": {
-          "compositeUnique": "Duplicate Election {{name}}, {{field[0]}} and {{field[1]}}",
-          "invalidOption": "Invalid option",
-          "invalidValue": "Value is not a valid option",
-          "readOnly": "{{field}} is read only",
-          "reference": "Value does not exist in the reference table",
+          "compositeUnique": "Duplicate {{name}}, {fields},{{fields[0]}} and {{field[1]}}",
+          "readOnly": "{{label}} is read only",
           "transformed": "🪄️ Transformed from {{originalValue}}"
         }
       }
